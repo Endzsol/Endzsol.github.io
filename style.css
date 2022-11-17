@@ -1,0 +1,39 @@
+h1 {
+  color: rgb(255, 0, 225);
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: normal;
+}
+h2 {
+  color: rgb(255, 0, 225);
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: normal;
+}
+h3 {
+  color: rgb(255, 0, 225);
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: normal;
+}
+h4 {
+  color: rgb(255, 0, 225);
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: normal;
+}
+a:link, a:visited {
+background-color: #f44336;
+color: white;
+padding: 15px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+a:hover, a:active {
+background-color: red;
+}
+body {
+background-image: url('bg.jpg');
+}
