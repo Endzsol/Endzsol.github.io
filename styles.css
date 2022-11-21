@@ -5,21 +5,25 @@
   font-family: "Josefin Sans", sans-serif;
   font-weight: normal;
 }
+iframe {
+  height: 500px;
+  width: 500px;
+}
 a:link, a:visited {
-font-family: "Josefin Sans", sans-serif;
-font-weight: normal;
-background: radial-gradient(circle at bottom, rgb(0, 216, 254) 0, rgba(0, 251, 193, 0.666) 100%);;
-color: white;
-padding: 15px 25px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: normal;
+  background: radial-gradient(circle at bottom, rgb(0, 216, 254) 0, rgba(0, 251, 193, 0.666) 100%);;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
 
 a:hover, a:active {
-background: radial-gradient(circle at bottom, rgb(0, 216, 254) 0, rgb(0, 0, 0) 100%);;
-font-family: "Josefin Sans", sans-serif;
-font-weight: normal;
+  background: radial-gradient(circle at bottom, rgb(0, 216, 254) 0, rgb(83, 80, 80) 100%);;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: normal;
 }
 body {
   background: radial-gradient(circle at bottom, navy 0, rgb(0, 0, 0) 100%);
