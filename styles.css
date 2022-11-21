@@ -1,29 +1,14 @@
-h1 {
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+.szoveg {
   color: rgb(255, 0, 225);
   text-align: center;
-  font-family: "Source Sans Pro", sans-serif;
-  font-weight: normal;
-}
-h2 {
-  color: rgb(255, 0, 225);
-  text-align: center;
-  font-family: "Source Sans Pro", sans-serif;
-  font-weight: normal;
-}
-h3 {
-  color: rgb(255, 0, 225);
-  text-align: center;
-  font-family: "Source Sans Pro", sans-serif;
-  font-weight: normal;
-}
-h4 {
-  color: rgb(255, 0, 225);
-  text-align: center;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   font-weight: normal;
 }
 a:link, a:visited {
-background-image: url('latyi.png');
+font-family: "Josefin Sans", sans-serif;
+font-weight: normal;
+background: radial-gradient(circle at bottom, rgb(0, 216, 254) 0, rgba(0, 251, 193, 0.666) 100%);;
 color: white;
 padding: 15px 25px;
 text-align: center;
@@ -32,8 +17,10 @@ display: inline-block;
 }
 
 a:hover, a:active {
-background-image: url('latyi2.png');
+background: radial-gradient(circle at bottom, rgb(0, 216, 254) 0, rgb(0, 0, 0) 100%);;
+font-family: "Josefin Sans", sans-serif;
+font-weight: normal;
 }
 body {
-background-image: url('bg.jpg');
+  background: radial-gradient(circle at bottom, navy 0, rgb(0, 0, 0) 100%);
 }
