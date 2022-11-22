@@ -5,6 +5,10 @@
   font-family: "Josefin Sans", sans-serif;
   font-weight: normal;
 }
+.footer{
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(209, 199, 199);
+}
 a:link, a:visited {
   font-family: "Josefin Sans", sans-serif;
   font-weight: normal;
